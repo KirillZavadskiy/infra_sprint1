@@ -1,0 +1,5 @@
+IP: 84.252.141.86;
+name_taski: https://iriska.ddns.net/;
+name_kittygram: https://hellokitty.ddnsking.com;
+login: zavad;
+password: 2010;
